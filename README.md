@@ -1,5 +1,15 @@
 * Mixed Messages
 
+**main.js
+run Js code
+Display mixed messages randomly on the console.
+
+***Run the example
+node main.js
+
+***Running Tests
+node main.js
+
 **horoscopes.js
 JS lib code
 Returns horoscope randomly.
